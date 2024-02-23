@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Weather App",
+    "desc": "Get the weather of your location. Built using HTML, CSS, JS, Node, weather API.",
+    "image": "weatherReport",
+    "category": "JavaScript",
+    "links": {
+      "view": "weather-report-cyan.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Weather-Report"
+    }
+  },
+  {
+    "name": "Movie Review",
+    "desc": "This is movie Review app. Built using React,Redux,IMDB API",
+    "image": "movie review",
+    "category": "React",
+    "links": {
+      "view": "movie-review-4z7f.vercel.app/",
+      "code": "https://github.com/santhosh11kumar/Movie-Review"
+    }
+  },
+  {
+    "name": "Todo",
+    "desc": "It will manage the todos. Built using React",
+    "image": "Todos",
+    "category": "React",
+    "links": {
+      "view": "todo-list-xi-five.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Todo-List"
+    }
+  },
+  {
+    "name": "Password Generator",
+    "desc": "It helps to generate a new strong password according to user specification.Built using JS",
+    "image": "passwordgenerator",
+    "category": "JavaScript",
+    "links": {
+      "view": "password-generator-murex-pi.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Password-Generator"
+    }
+  },
+  {
+    "name": "Razorpay Clone",
+    "desc": "This is Razorpay clone made with HTML, CSS, Tailwind CSS.",
+    "image": "razorpay",
+    "category": "clone",
+    "links": {
+      "view": "razor-pay-clone-plum.vercel.app",
+      "code": "https://github.com/santhosh11kumar/RazorPay-Clone"
+    }
+  },
+  {
+    "name": "course site",
+    "desc": "This is Course site. Built using REACT",
+    "image": "coursessite",
+    "category": "clone",
+    "links": {
+      "view": "filters-using-react.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Filters-using-React"
+    }
+  },
+  {
+    "name": "ecommerce",
+    "desc": "This is an ecomerece app. Built using REACT",
+    "image": "ecommerce",
+    "category": "React",
+    "links": {
+      "view": "e-commerce-dun-rho.vercel.app",
+      "code": "https://github.com/santhosh11kumar/E-COMMERCE"
+    }
+  },
+  {
+    "name": "blogsite",
+    "desc": "This is Blogs website. Built using REACT",
+    "image": "blogsite",
+    "category": "React",
+    "links": {
+      "view": "dev-detective-using-react-pze1.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Multipage-Blog-site"
+    }
+  },
+  {
+    "name": "Tic Tac Toe",
+    "desc": "This is Tic Tac Toe. Built using HTML, CSS, JS.",
+    "image": "tic tac toe",
+    "category": "JavaScript",
+    "links": {
+      "view": "multiplayer-game-zeta.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Multiplayer-Game"
+    }
+  },
+  {
+    "name": "share modal",
+    "desc": "A preview model. Built using HTML, CSS, JS.",
+    "image": "sharemodal",
+    "category": "JavaScript",
+    "links": {
+      "view": "share-modal.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Share-Modal"
+    }
+  },
+  {
+    "name": "study Notion",
+    "desc": "This is a Educational platform. Built using React.",
+    "image": "studyNotion",
+    "category": "JavaScript",
+    "links": {
+      "view": "navigation-using-routes.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Navigation-Using-Routes"
+    }
+  },
+  {
+    "name": "slide show",
+    "desc": "This is a slide show app. Built using HTML, CSS, JS.",
+    "image": "slideshow",
+    "category": "JavaScript",
+    "links": {
+      "view": "js-projects-dun.vercel.app/",
+      "code": "https://github.com/santhosh11kumar/JS_Projects/tree/master/Modern_Slide_show"
+    }
+  },
+  {
+    "name": "clock",
+    "desc": "This is clock. Built using HTML, CSS, JS.",
+    "image": "clock",
+    "category": "JavaScript",
+    "links": {
+      "view": "theme-clock-opal.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Theme-Clock"
+    }
+  },
+  {
+    "name": "Modern Garage",
+    "desc": "This is a car selling platform. Built using HTML, CSS, JS.",
+    "image": "modernGarage",
+    "category": "basicweb",
+    "links": {
+      "view": "modern-garage.vercel.app",
+      "code": "https://github.com/santhosh11kumar/Modern-Garage"
+    }
+  }
+
+]
